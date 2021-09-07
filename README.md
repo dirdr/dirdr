@@ -1,7 +1,7 @@
 ### Hello 
 
 Adrien PELFRESNE GitHub 
-ESIEE 2020-2021 
+
 
 
 <img src="https://zupimages.net/up/19/25/yqns.png" width="20" height="20">  [Linkedin](https://www.linkedin.com/feed/) 
