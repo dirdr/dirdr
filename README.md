@@ -1,6 +1,7 @@
 ### Hello 
 
-Adrien PELFRESNE 
+Welcome to my github Page!
+I'm Adrien PELFRESNE
 
 [BinarySearch](https://binarysearch.com/@/dirdr)
 
