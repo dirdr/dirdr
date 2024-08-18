@@ -1,6 +1,6 @@
 # Hello 
 Welcome to my github Page!
-I'm Adrien, a student (and software engineer) from france, currently learning Rust 🦀.
+I'm Adrien, a student (and software engineer) from France, currently learning Rust 🦀 and DSA.
 don't hesitate to reach me at adrien.pelfresne@gmail.com.
 
 <!--
