@@ -1,8 +1,7 @@
-# Hello 
-Welcome to my github Page!
-I'm Adrien, a student (and software engineer) from France, currently learning Rust 🦀 and DSA.
-don't hesitate to reach me at adrien.pelfresne@gmail.com.
+Welcome to my GitHub page!
+I'm Adrien, a software engineer from France.
+I'm passionate about backend development, CI/CD ⚡, Rust 🦀, and DSA 🗺️.
 
-<!--
-**dirdr/dirdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Don't hesitate to reach out to me at adrien.pelfresne@gmail.com.
 
+P.S. I'm currently looking for a job starting in September 2025, either in Paris or remote. Please DM me if you have any leads to share!
